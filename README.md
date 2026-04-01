@@ -13,8 +13,11 @@ Uma aplicação desenvolvida em Flutter para calcular a bitola ideal de cabos el
 
 # ▶️ Como executar o projeto
 Passo 1: Clone este repositório.
+
 Passo 2: Abra o projeto no VS Code.
+
 Passo 3: Instale as dependências - flutter pub get
+
 Passo 4: Execute o aplicativo - flutter run
 
 
